@@ -1,0 +1,21 @@
+/* About Page CSS Start  */
+
+.follow
+{
+    padding: 10px;
+    color: rgb(68, 72, 73);
+    font-weight: bold;
+}
+
+
+@media screen and (max-width:600px) 
+{
+    .follow
+{
+    padding: 40px 100px;
+   
+}
+    
+}
+
+/* About Page CSS End  */

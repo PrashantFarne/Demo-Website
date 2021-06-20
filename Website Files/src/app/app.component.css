@@ -1,0 +1,15 @@
+/* App.component start */
+.navbar {
+  background-color: rgb(253, 253, 253);
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #000;
+  font-size: 16px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  text-decoration: underline;
+}
+
+/* App.component End */

@@ -1,0 +1,26 @@
+/* Joinnow Page  Start  */
+.joinnow
+{
+    background-color: var(--bs-white);
+    padding: 120px 80px;
+    
+}
+
+.login
+{
+    background-color:rgb(186, 207, 206);
+    padding:30px 30px;
+}
+
+@media screen and (max-width:600px) 
+{
+    .joinnow
+{
+   
+    padding: 100px 20px;
+}
+
+    
+}
+
+/* Joinnow Page  End  */

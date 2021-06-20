@@ -1,0 +1,21 @@
+/* Course page css Start */
+.course {
+  background-color: #d8e6e9;
+  padding: 100px 100px;
+}
+
+.box {
+  background-color: #ffffff;
+  padding: 40px 40px;
+  border: 10px;
+  border-radius: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .course {
+    background-color: rgb(194, 224, 243);
+    padding: 50px 10px;
+  }
+}
+
+/* Course page css End */
